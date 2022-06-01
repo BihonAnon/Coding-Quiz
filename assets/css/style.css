@@ -1,0 +1,142 @@
+/*
+HEADER STUFF
+IGNORE
+*/
+h1{
+    background-color: #FFE0E4;
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+    cursor: default;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #3D43DB;
+    flex: 3 2 80%;
+}
+    header{
+    display: flex;
+    flex-direction: column;
+}
+p{  
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+}
+nav{
+    flex-direction: row;
+}
+div{
+    background-color: #e9a7b0;
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+    cursor: default;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #3D43DB;
+    flex: 2 1 40%;
+}
+button {
+    background-color: #FFE0E4;
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+    cursor: default;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #3D43DB;
+}
+/*
+QUIZ CARD STUFF
+IGNORE
+*/
+.QuizCard {
+   display: flex;
+   flex-direction: column;
+   margin-right: 15%;
+   margin-left: 15%; 
+   background-color: #e9a7b0;
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+    cursor: default;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #3D43DB;
+    flex: 2 1 40%;
+}
+.question {
+    background-color: #FFE0E4;
+    color: #4239BD;
+    padding: 13px;
+    margin: 13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    text-transform: capitalize;
+    cursor: default;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #3D43DB;
+    /*
+    FLEXBOX STYLING
+    */
+    flex: 2 1 60%;
+  }
+.answer {
+    background-color: #FFE0E4;
+    color: #42BD35;
+    padding: 13px;
+    margin:13px;
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    font-variant: normal;
+    line-height: 25px;
+    text-align: justify;
+    cursor: pointer;
+    visibility: visible;
+    border-radius: 19px;
+    box-shadow: 5px 5px 0px #6BDB3B;
+    /*
+    FLEXBOX STYLING
+    */
+    flex: 1 1 50%;
+  }
