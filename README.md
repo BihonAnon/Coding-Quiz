@@ -1,5 +1,5 @@
 # Coding-Quiz
-[LINK TO DEPLOYED APPLICATION(https://youraveragecat.github.io/Coding-Quiz/)]
+[LINK TO DEPLOYED APPLICATION](https://youraveragecat.github.io/Coding-Quiz/)
 # Coding Quiz is a website designed to help students work on their schoolwork, with easy to input flashcards in a simple multidimentional array with a timer.
 ### Elements Included
 # Randomized Questions
