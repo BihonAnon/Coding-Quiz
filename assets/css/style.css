@@ -51,6 +51,7 @@ div{
     border-radius: 19px;
     box-shadow: 5px 5px 0px #3D43DB;
     flex: 2 1 40%;
+    cursor: crosshair;
 }
 button {
     background-color: #FFE0E4;
